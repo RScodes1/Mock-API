@@ -1,246 +1,215 @@
 {
-
-  "locations" :
-  
+  "images" :
   [
-{
-"id": "1",
-"image": "https://cdn.britannica.com/64/153464-050-551A86F7/Rialto-Bridge-Grand-Canal-Venice.jpg",
-"location": "Rialto Bridge, Italy",
-"price": "6699",
-"description": "The Rialto Bridge is the oldest of the four bridges spanning the Grand Canal in Venice, Italy. Connecting the sestieri of San Marco and San Polo, it has been rebuilt several times since its first construction as a pontoon bridge in 1173, and is now a significant tourist attraction in the city."
-},
-{
-"id": "2",
-"image": "https://cdn2.wanderlust.co.uk/media/1007/cropped-toy-train.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131665359440000000",
-"location": "National Park Station",
-"price": "7711",
-"description": "Interesting journey in america by presenting very Park Arches National Park lies north of Moab in the state of Utah. Bordered by the Colorado River in the southeast, it's known as the site of more than 2,000 natural sandstone arches, such as the massive, red-hued Delicate Arch in the east."
-},
-{
-"id": "3",
-"image": "https://a0.muscache.com/im/pictures/4a5c629b-9c92-450e-8d8f-995875798838.jpg?im_w=720",
-"location": "Prahu Canaoe,Bali Indonesia",
-"price": "8822",
-"description": "Explore the beautiful beaches of Bali with this amazing package."
-},
-{
-"id": "4",
-"image": "https://www.moroccotoptrips.com/wp-content/uploads/2022/06/merzouga-desert-camp-1024x629.png",
-"location" : "Marratekh Morocco",
-"price": "6699",
-"description": "If you are going to Morocco, visiting the Sahara Desert should be at the top of your bucket list. The tranquillity and infinite beauty of the rose gold Morocco sand dunes is like nothing else on earth."
-},
-{
-"id": "5",
-"image": "https://assets.palmspringslife.com/wp-content/uploads/2017/03/13103531/san-jacinto.png",
-"location" : "Peak palm springs",
-"price": "5522",
-
-"description": " Tucked away in the desert inland from Los Angeles and San Diego, Palm Springs offers a relaxing desert getaway with a rich history."
-},
-{
-"id": "6",
-"image": "https://assets3.thrillist.com/v1/image/3109501/1200x600/scale;;webp=auto;jpeg_quality=85.jpg",
-"location": "Cappadocia turki",
-"price": "8088",
-"description": " Tucked away in the desert inland from Los Angeles and San Diego, Palm Springs offers a relaxing desert getaway with a rich history."
-},
-{
-"id": "7",
-"image": "https://www.travelandleisure.com/thmb/VscfMXHNO6uBpaX2cuIW1q2ZtA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tokyo-japan-TOKYOTG0621-52012ff551dc46c4a87ac8e3151307a4.jpg",
-"location": "Tokyo, Japan",
-"price": "2000",
-"description": "Experience the vibrant culture of Tokyo in this exciting tour."
-},
-{
-"id": "8",
-"image": "https://www.andbeyond.com/wp-content/uploads/sites/5/A-tender-moment-between-Lioness-and-cub.jpg",
-"location": "Kruger National Park, South Africa",
-"price": "1800",
-"description": "Embark on a thrilling safari adventure in Kruger National Park."
-},
-{
-"id": "9",
-"image": "https://pk.visamiddleeast.com/dam/VCOM/regional/cemea/generic-cemea/travel-with-visa/destinations/paris/marquee-travel-paris-800x450.jpg",
-"location": "Paris, France",
-"price": "2500",
-"description": "Fall in love with the romantic streets and iconic landmarks of Paris."
-},
-{
-"id": "10",
-"image": "https://i.natgeofe.com/k/5b396b5e-59e7-43a6-9448-708125549aa1/new-york-statue-of-liberty.jpg",
-"location": "New York City, USA",
-"price": "2200",
-"description": "Discover the energy and diversity of the Big Apple in this city tour."
-},
-{
-"id": "11",
-"image": "https://images.squarespace-cdn.com/content/v1/55ee34aae4b0bf70212ada4c/1577545161018-1F9Z9ZZQG9JO2O4WCWQX/keith-zhu-qaNcz43MeY8-unsplash+%281%29.jpg?format=1500w",
-"location": "Sydney, Australia",
-"price": "1900",
-"description": "Experience the vibrant city life and stunning beaches of Sydney."
-},
-{
-"id": "12",
-"image": "https://www.spain.info/.content/imagenes/cabeceras-grandes/cataluna/park-guell-barcelona-s-305364611.jpg",
-"location": "Barcelona, Spain",
-"price": "2300",
-"description": "Immerse yourself in the art and architecture of Barcelona."
-},
-{
-"id": "13",
-"image": "https://www.lovebigisland.com/wp-content/uploads/hana-highway.jpg",
-"location": "Maui, Hawaii",
-"price": "2800",
-"description": "Relax and rejuvenate on the breathtaking beaches of Maui."
-},
-{
-"id": "14",
-"image": "https://cdn.britannica.com/03/94403-050-03683FB0/Rio-de-Janeiro-Braz.jpg",
-"location": "Rio de Janeiro, Brazil",
-"price": "2100",
-"description": "Experience the vibrant Carnival spirit in Rio de Janeiro."
-},
-{
-"id": "15",
-"image": "https://cdn.britannica.com/30/180130-138-4FC01CDD/Overview-Amsterdam.jpg?w=800&h=450&c=crop",
-"location": "Amsterdam, Netherlands",
-"price": "2400",
-"description": "Discover the charm of Amsterdam's canals and historic sites."
-},
-{
-"id": "16",
-"image": "https://i0.wp.com/exploringkiwis.com/wp-content/uploads/2018/11/peru-2774925_1920.jpg?fit=1020%2C680&ssl=1",
-"location": "Machu Picchu, Peru",
-"price": "3000",
-"description": "Embark on a once-in-a-lifetime journey to the ancient ruins of Machu Picchu."
-},
-{
-"id": "17",
-"image": "https://a.cdn-hotels.com/gdcs/production81/d94/cf4b5dbc-bbe8-4693-8240-ebec54aaf0de.jpg?impolicy=fcrop&w=800&h=533&q=medium",
-"location": "Dubai, United Arab Emirates",
-"price": "2700",
-"description": "Experience luxury and opulence in the futuristic city of Dubai."
-},
-{
-"id": "18",
-"image": "https://lp-cms-production.imgix.net/2021-05/shutterstockRF_1563449509.jpg?auto=format&w=1440&h=810&fit=crop&q=75",
-"location": "Santorini, Greece",
-"price": "3200",
-"description": "Indulge in the breathtaking beauty and romantic atmosphere of Santorini."
-},
-{
-"id": "19",
-"image": "https://www.peruforless.com/content-files/uploads/social-media/og-cusco.jpg",
-"location": "Cusco, Peru",
-"price": "2800",
-"description": "Explore the historical treasures and vibrant culture of Cusco."
-},
-{
-"id": "20",
-"image": "https://www.holidify.com/images/bgImages/ISTANBUL.jpg",
-"location": "Istanbul, Turkey",
-"price": "2600",
-"description": "Immerse yourself in the rich history and fascinating culture of Istanbul."
-},
-{
-"id": "21",
-"image": "https://www.tripsavvy.com/thmb/zO0A95oa05QOXLnAcfX9Al11dts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-906759050-2184f8cd91e94f749b7251a37575ef23.jpg",
-"location": "Maasai Mara, Kenya",
-"price": "3500",
-"description": "Witness the incredible wildlife and stunning landscapes of Maasai Mara."
-},
-{
-"id": "22",
-"image": "https://www.holidify.com/images/bgImages/BANGKOK%20.jpg",
-"location": "Bangkok, Thailand",
-"price": "1800",
-"description": "Experience the vibrant street markets and ornate temples of Bangkok."
-},
-{
-"id": "23",
-"image": "https://content.api.news/v3/images/bin/7d98c5e4bb3b7f29d9d73c781d209882",
-"location": "Reykjavik, Iceland",
-"price": "3200",
-"description": "Discover the otherworldly landscapes and natural wonders of Reykjavik."
-},
-{
-"id": "24",
-"image": "https://www.india-briefing.com/news/wp-content/uploads/2013/07/India-Briefing-Economy-of-Mumbai-Indias-Major-Commercial-Hub.jpg",
-"location": "Mumbai, India",
-"price": "2500",
-"description": "Experience a wide range of Mumbai tours like the Mumbai sightseeing tour, Dharavi slum tour, Elephanta caves tour, Mumbai food tour, and many more."
-},
-{
-"id": "25",
-"image": "https://blog.goway.com/globetrotting/wp-content/uploads/2018/05/Kiyomizu-dera-Temple-and-cherry-blossom-season-Sakura-spring-time-in-Kyoto-Japan-_1017748333.jpg",
-"location": "Kyoto, Japan",
-"price": "2800",
-"description": "Explore the serene temples and traditional gardens of Kyoto."
-},
-{
-"id": "26",
-"image": "https://www.travelandleisure.com/thmb/zFpjulihpXjpUV7gKNHzydvJANA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vienna-austria-VIENNATG0621-ecb0ee926c2d49c4bce610db594f7405.jpg",
-"location": "Vienna, Austria",
-"price": "2200",
-"description": "Immerse yourself in the classical music and imperial history of Vienna."
-},
-{
-"id": "27",
-"image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2e/1e/cape-town.jpg?w=700&h=-1&s=1",
-"location": "Cape Town, South Africa",
-"price": "3200",
-"description": "Experience the breathtaking beauty and cultural diversity of Cape Town."
-},
-{
-"id": "28",
-"image": "https://www.travelandleisure.com/thmb/oNo7zAZGMDBGXiegpzjfIc5IUsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-circulo-de-bella-artes-TODOMADRID0723-45c9757f16f54de6861984cf82ae4034.jpg",
-"location": "Madrid, Spain",
-"price": "2700",
-"description": "Immerse yourself in the art and architecture of Madrid."
-},
-{
-"id": "29",
-"image": "https://www.travelandleisure.com/thmb/RQ3JmT8V2y2fhwr7NY0cgUumcCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/phuket-thailand-karst-formation-phuket0327-92bd3ce9266148dba74cba5e36c711e2.jpg",
-"location": "Phuket, Thailand",
-"price": "2100",
-"description": "Relax on the stunning beaches and enjoy the vibrant nightlife of Phuket."
-},
-{
-"id": "30",
-"image": "https://cdn.britannica.com/44/102444-050-7260C54D/Zurich-Switzerland.jpg",
-"location": "Zurich, Switzerland",
-"price": "3200",
-"description": "Experience the stunning landscapes and sophisticated city life of Zurich."
-},
-{
-"id": "31",
-"image": "https://assets.editorial.aetnd.com/uploads/2017/08/jerusalem-gettyimages-1239997543.jpg",
-"location": "Jerusalem, Israel",
-"price": "2400",
-"description": "Explore the historical sites and religious significance of Jerusalem."
-},
-{
-"id": "32",
-"image": "https://a.cdn-hotels.com/gdcs/production92/d1146/87b98bdb-666a-4ae3-964a-5872d4580ef4.jpg",
-"location": "Florence, Italy",
-"price": "3000",
-"description": "Discover the art, culture, and delicious cuisine of Florence."
-},
-{
-"id": "33",
-"image": "https://cdn.britannica.com/07/192407-050-548620BE/Sunset-view-Chiang-Mai-Thailand.jpg",
-"location": "Chiang Mai, Thailand",
-"price": "1900",
-"description": "Experience the rich history and traditional charm of Chiang Mai."
-},
-{
-"id": "34",
-"image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pahalgam_views_13.JPG",
-"location": "Pahalgam, Jammu and Kashmir",
-"price": "3200",
-"description": "Pahalgam is a hill station in the north Indian state of Jammu and Kashmir. Overa Aru Wildlife Sanctuary is home to animals including brown bears and musk deer. Northeast, the Lidder River runs through scenic Betaab Valley."
-}
-]
-}
+      {
+      "id": "1",
+      "image" : "https://i.pinimg.com/originals/08/0d/51/080d519e900fa5203e5e13658d197aea.jpg",
+      "name": "Koala",
+      "colors": "brown, white, black",
+      "description" : "This is an wild animal,very social, very innocent, lives on trees."
+      },
+        {
+        "id": "2",
+        "image" : "https://i.pinimg.com/236x/2c/c3/d7/2cc3d7b765b15e06c248ec63687066a6.jpg",
+        "name": "Cat",
+        "colors": "brown, white, black",
+        "description" : "This is an domestic animal, carnivore, likes milk, hunts rats for fun."
+        },
+      {
+      "id": "3",
+      "image" : "https://www.rookieparenting.com/animal-coloring-pages-for-adults-1.png",
+      "name": "Elephant",
+      "colors": "greyish white",
+      "description" : "This is an wild animal,very social."
+      },
+        {
+        "id": "4",
+        "image" : "https://adultcoloringbooks.club/wp-content/uploads/2017/02/animals-adult-coloring-book.png",
+        "name" : "Penguin",
+        "colors": "white, black",
+        "description" : "This is an cold habituated animal,very social."
+        },
+      {
+      "id": "5",
+      "image" : "https://i.pinimg.com/236x/1c/e4/68/1ce468d37a41cfc2781fae435c08e0f7.jpg",
+      "name" : "Sloth",
+      "colors": "brown, white, black",
+      "description" : "This is an wild animal, lives on trees, very slow in movement."
+      },
+        {
+        "id": "6",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQTExYTExMWFxYYFxkZGBkZGhseGhgZGxkfGB8bGRgZHishHxwmHhcYIjIiJiosLy8vGSE1OjUuOSkwLywBCgoKDQ0NDg8JDiwaFh4sLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLP/AABEIAP8AxQMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAABAIDBQEGBwj/xABFEAACAQMCBAQDBgMEBwgDAAABAhEAAxIhMQQTIkEFMlFhQnGBIzNSYnKRBhShgpKxwQdDU2Nzg7IVJDTC0eHw8ZOio//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/APuNFFFAUUVTxF4IpY7AT/8APegm7gakgfOoW+JRvK6n5EV5y5dV3+1zZ20CKFYLlJCgMp7A9ZiSDGmgh/NJAXkIgMnIr2BxmQAF176/Kg9XNdrC4ROIt66XE/CT1Aflfv8AX9l76vDcSriVO2hB0Kn0I7GgYoorlB2iiuUHaKKKAooooCiil+K4lbYljuYAGpY+gHc0F81Vc4lF8zqPmRWRxS33kmLdv8IPUR3LP2+k/wBrsh/NJBXkowUAllXYExMkEN310+VB6lLgIkEEexqdeXtXVV/ssw4kYFVUNjoVxUCdxDawSO1ei4a8HRXXZgCPkdaC6iiigKKKKAooooCsP+KOKZERUEszjSCdF18o1OuIj3rcrA8Rsi7xlm2wlUs3XPvLIo/qJ+lBkeGX4VnnK4q5vpDNdFoRkNwc7rJB2gDtFadiz/qgZyi1P+6tCHafdmI+b+xqC8Az2ku6vIDxP2iDLNeW/fHp6GkGP3p4e5gMGbRxHNAiba7oqzPOLMZHuxGwFBZeXAPcswthNMdYYjc2gNgDoAIlgcY3a3g7TuebbbqgSTsw9GGkj309RByU3Scl6JYAcuyDAtjYNcOsH6abCTqanPIeHcMbpJIXQo+8qOymDE/FGvVQavB8WHkEYuvmX09CPVT2I/xBAdrzqWDL3Q0OolSNid4I/AwKnf4u2Iq0eNk23cWWm2mTgkKFhcoBOp02IH7GRQbtcrK/7Qu5FOSAyqHYm50BSWAghS09B0xj3pfh/F7tzy2VAKllfmSpUaE44hpk7ED5ig3qKyLdziDaFzO0CUDRy2/DMTzf60re8buoOqyhARXZ+ZCBWmDGJaZUyADGmp7B6Gisr/tC6GwNgZFcgRcGBHzKhp9saofxtgisbLZOJQAhgxiYkaiO5Ij+khocZxYSABk7eVfX3J7KO5/xMA4/GWnRubcaWiARsBvCDtt/QEycQJPYPRdLSzCSx8s77fgUSY7wNZM0Iec8K+JtQVDal23lwdSokbdz6qKCrh0zwuXYay2gX4VJPTzB3B2g7GJkxFl21jFs7LNn52roi2fUkOFT6k1ax1b7PqIPNsmIuDYvbOxP7T3g0jxN3MYq8hQQbp1i22ysNzeDBYHsZ31BfxG8NDlDkpcQxLBmt8s4qNScrJOm+XvWt/C/Es9tw4hhcYkQRGRJMgiR1ZGCO9LtwDKjXNbeoMT9owLgnN+wiehYAnv2Z8O4cWuKvIohGt23+bSykyfktBu0UUUBRRRQFFFFAVnIg/mXPfkoB/fef/LWjSF4RftnsbdxfqGRgP2zoJeDD7Cz/wANP+kUj4xwYEuDipIyI3R9lurPdTv6j5aueDH7JV/AWt//AI2NufrjP1pu6gYFTsQQflQee4XiIUoXFo5EOqS992BgsdCQDvMHQjUUy/DFrbJbtYBviuHqJ3DHdi0wZJnSkLVxkf4+pSGwNtZeyxtFibhG64DSfLTWM+Zbbf8AE4hj+6BSpoL7VwC0CQOoEkewBJWPlmPoKW8VtlgUVurltby/ECpEP/aB17Er6kE8MXpVYXEcuAvlx5l0ae2IFcscUFAxUMYEM7hVYhVHTMs2qSDABnQ0HV8WVb1rmdDXbYUg7SssrK34etxJjUrVdpTY4jN0E3MhcuA9IUsAnR8IBIBPvJq/g1LjBSBlbV7rFQWcuWGMHYDFhHyAjuvZ4VrjcskGFuK2RciFbCAVYEqfRiY1FBMPdFnEY8kHlZa5BA2HM+g0j2mYqDWubxOaWx0KgtuT0lFZg8L31Mf3SN6aQD+RCEDS0LRX8wHLK/3tKTfg3tsLeQGSKq4l480MGLMWCjp0UiaBg+Kq926LYLtbTDTQA7lix0gaDSdQah4amIi4wyKYloICgASFB8vU0epIY9hF3GW8BixHRbL23VQCmMDHEaYmQI77GoXeJDD7RApxAco4dVgNAaIYQznWI9TQMX7s2GYjyLlj7RmLf7YA+s+9RXhWVFS7azx+O2erLcsNmBkk6HvS/iq9JBxINxJDeUjnWkhvylRr8zUsI8q21/4fEMP2RlC0FfFX5GCuLrSAgeUvIx0DaAHEamYGgO9OeE8IDDk5AE4kgdbnRrxA0ljMRoBtANZ9x2d4BuCFxXJrbENdbDJWtk6hQ51javS2bYUBVAAAAAGwA0ge1Av4v9xd/Q3+FQC/94nvyQP/AN6l4t93j+JkX5ywn+k0Wtb7n8KIP3JP+VA9RRRQFFFFAUUUUBWd4xcCC25+G6v7PNs/9daNZv8AENnOxcWYld/QyNfpv9KAs3Bbu3FYgByrrJjUgIwH1UH5saqbxJjhhbJFxsbbEgKdC0mNYxVjtrHvVVtluNba4gOSNb6gCBcBhl179LD3xrlrptWQd7N1UP7GzP8AdcGgzb+jqLhWebe2YIDokxmSPMdqa4m0balm542AhOHaSTAGludSQPrSF/jCrhgSNG0063v3Mxb1BBYLy9DE56HQ1McI6DnBfumJIRsLJZZVjyRoQDkMiZBEgGBIW2xcFoWy1telUYYMQWBnA3gQoJyI0WBO9O8NcBFz7JnzYxABiAFwaT0lSCI2796g137PAEYuxAEE3NTLJgN2BkZGANz60ve4kEs3X19ItWg+LuBAyuqIJ0g4mABqYFBZw9tVPKhrjKoOVtiMSRDozgiBkA0E/FtpURxeBR1KACUFtFc5hjJAumFZpEgAeupqSWXZQMriWgIcLbUTIjBLQUsF99/T1q3h3iHB5gHStzRgg2hkABTaCYJ9YFA0Ldr/AMRkcd8fhz8uWMTzPhj+k1m/zYcu7MhBhGturgIFJIm6BCvLSZH4ddJLOQ5s8tub5sJ+y2jnFo9On1303NcvtJ5km2DAa5oouewtEEv3AJAOukg6hTfthmFqHtsQTlcJOTicFVySGAbrgHdR70xfcBU+xZMCJ0HywU/FlMfWTVJ4dlTHK69oiEVkUwAICPaKhiNN9/X1qqzxIDI4NzolTauBwqOQJxusIB7DIxDab0ELnMNk2le2xxKJKMAHHlUXiSrFSFGq641fYtm4oZReI7yvDrBGhEm3OhFSF2LSoWGFprfTB5pKMGRMDpkSqjKYIkjTWkzwjsOay/eNIDtnaBYwp5RECdOuZ1mN4CXD/enllcs7WpYOBpe3wgT7VsJ4kwyztEBDi7AgqNjI+IiCO2mvpWFZ445cwkmACdug2mllOIAkIbnSJjua2OIPRdUea5d5Y98gq7dwBLH2U0DF24Lly2qkELLtBkCOlQY7yT/dNd8IuZ824Nmuuo+Vs8r/AKkY/Wk3xR7hsqFxtrbMDRrhPQNN8AdfZ/bRv+G7IThrIGxQN/e6/wDzUGnRRRQFFFFAUUUUBSnin3Vz9Df9JpulfEfurn/Db/pNBj8MpbJbgwF0Z2xPUjKo1Po2itHaD6mkOI4lrsW1OJu3UD3AOhSEYEgnQyyLiO+Qpq3aS5ctpeKs5AZhOgMdNpfaCSRu0GdNKa4i4zW3clMAWXlFdCA2MEzORiR8xpQKJwKraa5ClcipVllyA3L1uHq5ugiIAMCO9D2mGdnNjrJJxFvFjOVxokEndQRkfQEx2+i2rhWELaEXSJZJ0UMvx3Oy6SY9ta7fDrcDHEi1lHMunUAGHIB1NxiCMjqNPSKDvCozkm3cGVw9bBVLYDQs7HQSBARQI01MU9/LG3H3xxGKuBbbFfQKBpsJMTUb722gKkKNBPDXGHt2FRs8HHUttR+ayTbb+1bMAn8rT8qDtpF1dmSBrzEBR1Po6dz79/SquK4wjJ2yUhMilsDmlAJyuMdE2MDf37CfiXEqpBuMsW0z6oXNyStsGfTFyR6hT2pbhr6KAQ9t7gyLOHUpenV1ZpgPpoDoIEabAwVu5lcDoocn+YecSSNsI+E965w3FksCMmbCQlwAXlU/FbI0ce2/v2pS3xTC0WwcWjbS0LhB0QMesqerHlv5iN1PbWrGvo4JzRGYrFxmGNkKOhEM6vByK/nM6ECgbuooAuKywf8AWODcdvZE7H/CPLU/5Xmz98MhizkW1yX0Kke5gxImqfC+KVySrLLKWJSGxuKcbmMdiYI+c1K/wc9TW1P5rxN1p/LbEgfJYoFOKVkYG7cBZGAVyqq2LHEMjDQwG6kIOxMiasFpiUs5sJOQiOVipmbbRkTrohJjfULq1w721kMkg6GOGuKIP0OnzpF+HW2EIWbWUF7RnQyEOI15itgMhJgGZoJng1a2l0hMSygKFAKhmw0uDqLiZJOh1EUtw/ENZ6HJY2muY3IOLPilpCzRAMM+XYEGnOHRbjhYUHUm6ohngwQo3S72b4h/hfwt5hat3BgLbFF5QWAodguM/jWdQRuCNN6CHENgVVBmtkcy7r1MzAwR6t5nj5etavhKY2bS+ltB+ygVgcRYW2163aKhwhdR6yDlaYjfQKwG4y9AK9JwfkT9K/4UF9FcooO0UUUBRRRQFJeME8m5G5QgfNun/OnDWJxzB2IcFrYbBbY/1tyMiW/KoG22hPYUELfCko9tSoW1AOYku+C3C7tuPMNRqCCZqjyC3c5aubgDIWPVbOOWVzsyqPj8w0Gs6THCasSk4AZJdMkLqRjd+JdG0edRuBVXEX2uK7BOp1VerQW0cgKsD42JmPlPaglw6s9wC3K4oXNxxLOX6cxbGxIQwT2EYxFMKH6bSygVRCgiVX8Vy4ZgnXRQTvr3phhyFZpLMdWe4VVdAAJKgAAADQD+pM5bBnyQMY81xmUy8wSMAQRK6YzISe5mg0eHW48lHZE/GxyZ/dQdAvuRr6AQTWvglppIuM7etwi5/RwY+QivN/xP4sODu8KrWuH5V641truDHlsFBQYZDzAnvoBVLcfxQ4o2nsWxbD+c2mthLRtSr89LhCsbgKxBgfvQens8Cq3NFFu9j0uo6HQHYKdgCdVERMz3qm5auO2dy3buva81pRixO6srM0MO4DQJnUERUOE8WW9aW4j5iS9p9JLW5D22jTKAwkbifetbiLgW4lyYBtvkfygBpn21/rQVjw5scy32++QJifwAH/V9o+u9IW7FxH5ltEtvcgLaIyK6lmYsrAKDMlV0kbyxq20OJ5ABf/VBjcIHMnGSuMYzPxRt2nWnOFuA3HuE6JbRQT2BHMZvrKz+igTvcCGuDpW7ex6ncdCKfyjeTsvtJIq1vBLQgm4yN2KFbf8ARQAfrNIcX4sLNlrrvy5xe6+mQa5GFpZ0ygqJOwE96w04/iTxItJYtm2bnnFtrgeyEkv/ADD3AGcPAiNRr70HruIDpq7s1v8AGpxZPdgogr6sNtyIkish5a0xLBlJxYjJl2m24AkiRow9PnXm/wCGfFv5y5xAFrh+VaucpLhRhzDjLdGR2179q1hkmKMZHmtsqkFCASIQknRTBXcofY0FvEKyXDzAWDIri4ghka305lDuYZZI3AiIFSVc83KKhtglihlnJXzW+yqy/F5jJGka6Fsc9VaSpGq3LZUgzoYLAgg+hFZXB3ntpbJQZW0KELtdt2zgwE6h1gMAe0idSQDbcKcEQlcbmgxEFGIyDIe/uTvv7U/4GT/L2cvMLaBv1BQD/UGsv+V1UhYzBxt2jqV0JLXT5V1GixuNTNMcFcFtgqqURmKFD/q7kZDGNMWHppJHqaDbooooCiiigKKKKBbjOIFtCxkxAAG5YmAo9ySB9aw3LKQuds3My+KmGV2mVBbpbQkQYn2rR8WuAGzltzZIgnQW31gdg2J/ak7JzU2UwYFssshIBbKWTzZ/SPcUFd68pyV+ZkQGuhkj7NNkUDpYMTj0kzkRNSScrl26VUh0hcuhWwGrn4mWfloNJ1qnxS+zJfZACSrhSdlSzIJ0g5G5lGvYHtUuNbFggW4xklUSS5n47t2CVB7Aa/PYBdetqzW2FwPLRzNGwJHTgvlWddYnXerCEUYiAoMjImC34lvD4t5nXftSd9nClWAUNvNp9O/3jXRqN8oG3amrK3MFNwrkR96pKhvdkDDU+xIoI+OeFWuJtlL1sXbdwAMBjIK6ghyw1B2NeIvf6Nrjo1mx4pxK2iADbclkAGyEowBUD4Zr6AeYOnNWnt3P1e4f8DVdy45bFiCBoVTWfRZ9+5MadhvQeN/gz+Hr/A8PxPCXWR2N229llPScxiNDqOq2ZHua9FauG8vCW20zs5OPygKHB+fl+pq97mV0MNbrWgEjyg5uC/yUNv7+9L8Pct2Cz68uwzJkd+XcglhO8Xg6/wBmg0f5pvvsujfl6a2iY5nrPxfLTes2/d5Y4u3BbGygUDd1c3ApHvDBJ9Uot8NjYW5zbfNCBPMuJQKFNuZ3gBt/MB235cwu4vqE4jl2lYb8u1mysfQm5cP7L8qDB/jL+HuI46zY4VHRW511+IZvLKGMsdzOYIHoRrpSlr/RvcRFtX/FOJa0BoiEqhGxVS7kAEEjGdRXs7dwi67ERdW2oca4E5xl7KwG+pA+VM27jhoU6HZX0/s/T1E6bjQGgq8C8Jt8NbVLNsW7VsEKDjLE7szgnUnc1YoVhiYKzPTMBp8xumJYGCANdu1Wg3D0l1SO3f6lLg/wFUXkfBjbK5DTmuScfUqmR292FBCxbVWuOboSGCi5oubAdWY8rxoMoBkMO1Ruznau2irZO4KgyjNy2bJD2YqhHpqfnVNh3KhQAwUaRacT/wAxbpgnfKDvXeFbMshFxT5mR5Dgja5auwC4E6g669tiE7PEAQq8zMDKziuRa0/wtPSIYFeojyqZ1oTJpTmILnMDlSQXZ1IYKSvSuigQJgdzXfDrpUWsgAUAEiYa3cMA67EOokeoHrU3lETh3KDFkOeQllRw8hPMbhjXSJJMnag2OEvh1DARO47gjQg/WmazfCbobmY7cxjEEHWDMH13rSoCiiigK4a7RQYniNwq1xgYxFpconBHfrYT6DWToIk6CqnCEuJF5FtlznD4OPKAx7sJMdsR60xxMi5cfmG2qWwWgAz5jPUOwB29aSvs+BQm4kjIKy2gGXJQ3kmPMJmDrQU3MU5akHl2rRV4Otxgi3AkdwdPmTHqK9BwHDlF6tXbqc+rHePYbD2ArB4iGuOdcBetFPQsLyW7hjcagLHsx716mg4RWFwVwBTBwDM9zYYxkQAQdhAX0JYn3rdNed40YRaJxm6OWfUXHEwfxLm8D3U+9A2WUHlzaybWAeWf7o6jU0uIFNsoQNYVRGQ7nEbAnT3mmV4G2EwwXE7iAZ9z6n3OtZwBt5oHxwKkNuxQ+VfViDIjv0+8hC1zGuuFIUctA7T5Oq4SqDaQCuuwqPCcOLjusRae0FtiIIW20C4PQkuSPYKe9csWRi7u0Wi8KgGrlRjDGZaSp0G8neruEy/mAzmHa0Ytz92mQgfMmZP02E0FgujlczlpzY5Z6RPMywj9ORn5GleMtC29tCJtJZYXRHwuwGemogoSSPc9qdPCN/MTH2Y+0n/ekcsCPTEsfmRS/FE/zLlDLrZtnlz50L3ZAnSZAg/TvQRuC4twKxDTbhXkdcOsK421yxkaGdqcd1K4YSBEqyziDscTuAQRptHtWfxNlcUe202lfFrcdShxhipJlIdkYgjTDtTBBfBC+RcsctmW2sZCRtJKAjtl7UFqupPLytZL2LZn+6TkKo41gVjzhCtz4cdGAxAGhBGe8wV+VabcDbKBMFxGwAiPcRsfcVk8IMy1kHKLn2jeirGhP4mgCP1H5hvgUp4hw2aaaOvUh9GH+R1BHcEinKDQeUC5c0ASjoEtyfu7mHNwH5SWXX1EbRDim1KAEWrTWw6lYTMnXzD0EGJ761Rw3TdSJwLuz66Bg/LtNt3AI/sD0rvClxbW2GuPisFQtqFCMUGtyJ8vudKBrgnJe285Zi4hMAZhTkjkD0Abb8dblY3Dyb1pjcLhrNwqSAI6rXZQN5G+0e9bNAUUUUBXDXaKDJ8VGJFzHMNFpk/GHMCPcSZ9p9KWucHcxMW3ZoCqXuKcVyBxED8okmSYEkwKu8cGT2lxZupmAVsdQuIlgZVesyR+x2qhvDZMXLdj9TlrrAeii6NP3j2oEuKvqvMRmhxmUSUlGZubLQxJhoI6do33rc8O8WtXgDbuKSVyxnqA91330nas9WIU27cNbU68uyCAdyN8SZ16Qa5xPDvdGK5so1LXlCgH8gZMg3vAA9aD0VVPbDbgGCCJGxBkH5g15/hOJe3oL1plUaq90sxPtcKgj6g1r+HeIpdErIPdW0YfTuPcSD2JoHqwvG2KuMTDOmK/qyEfIdUk/hDbb1u1geN8Hau3bYvAFER2xPdiQARGsjWI9aDnAoigCyTfcDHmsQUX6qAvzCanvUvDo/mDBLEI2dwx1vkoIX2XbTQajea5xisihsrjWdmSCLg2AgmGI7Rvrv6/PP4v/wBIdrh7htWrfNdQEKyVsWwPg6fvGE6/D27UH2A1heIQOJE9Ja2uFz8Lq7CCPRuYB6HbeK+Gn/SXxM/+H4PGduQP8Zr1n8Jf6RbV+4tu/bFt2BtqMpsXA0dHV92xxEfDOmkzQfReORGDC7Nl2XE3FPQwOmrEYn5MJ101qfgxLXGyMstpQSfxNcuBtf8AlL+wqPBhrils7gszCrB5h1xIJjICdI82mprngXB27V+8LQARrdk4js2V0N9dAT7zQegqtbYGwA1nQdz3qYNI+IeIraEtJPZV1Y/+g9SYA9aB+s/xLxW1ZBLuoIE4z1fPEaxPesrieJe5ob1pVYaKl0qw+dzEk9toqfD8O9oYuHVTqDZUMCfzhUyLH1Ij3oFeG4hGKKjSxVA6SgLYMbgiWkau06GQKct8HdxEo6t1BilxRkGctjqD+LcQR2NDMSOXchUY6G5aEHv64g/qANC+GQYS3Z/WjNbYj0Zbe/zn6UDXhSZHmEY4g20TfBVPVr6khZ/SvvWtWN4GCDdUqyxcBxZi26KTDE6gmT/kK2KDtFFFAUUUUGP4+h+ycCYuBT1FRFwYCSoJ85TtS9zg8BFxuHUE/eNJY+wW4d/csflWvx9gXLbo2zKQY31Hb3rzVi81hbeQ5jPbB5rF3ZF6ZyRiTBLL5NzGmmgPo5IwW472hpNpFBPqM1MEfoAI9aL9oAZG0ip/vbjAsf0gH+uvtXE4o3dFd7tsEgm0uAkaRnmCYP4O4+lWWbDAm4tqIBCteuszKPUAlsR6wQTAmgrbiM4ntotu1Ij8zXWVcQPQR/a7JtbuP1WbIVhtfa4zER6FgMk+pEdjTVwqVzdL1wd2Zitptf8AZFtV2joM6b1TfXMZXFJ28ybsTCpZtXR067uyz/kGn4V4mLso0BwJMeV1mM0nUrIIqPGNF9DDEG2YxJ3DAwQNxr3rEu28c7weDb1zBZ5bUC2DoHJ1y0hQQABrWhxHG520vQUZDF1WMG2rAZEwdh0tI+EGg7/EAYWWxCi4TIgkzGgbUDYlflX554L+FOLvW791bDDkqTdDyr7kkgMOo6E6aV+jnReoEAKVBhUk4bBCT3bssaQaxP4r8Pe7wrpaukMwNu0WLLdDFsSgdTLKYIM6RqSYmg/OQQaHt/7TNbPGfwpxVm1YuvYYrfX7MKCz+vUq6iQd/wD2r0Tf6LeMxxy4eMvNzWCgECAOie40iNta+n/wh4W1nhUS7dyZei4yljdJyJFo3GMqokAAQIIiJmi1p/wutw8PbLhTcGJYFtmwVXIgHe4rn0OtOcA88Rd0YDlWvMTuWu6YnauW7adIAGIUwGSDy+6AiIx2KEek0vY4zl2nuwXa4TykWSzqqwoE6xALH0BNEN+K+JC30JibhGmU4oNs7kahZ/f23GUtu5b6r1kFu99bhUmT3KjpX9h7CqbVsHG9zJNyTmSU69jbnUKRsBEMBBDb0zZTAZW1I38qzqDDJdtWhr7Oqzr+4Xi/hMHfRrd2SD7rcVWkH6/SizZBGQtIybfZXGJU/pYLt7a+1QtlAuardtLuHVy1pO33ecBfXoEa+Xemb3DsTm1rXZmtXWVm9DAKgj5mROlBBrjDpe46Wj3uIpI9sySAP1gn3qNrhMx9m1hoOlxZDD0BFs7x3DD9NcfiTa8z3LVsnQ3VzgntnmSBP4vWPQUnevNfW4QDbKK32qs9tnCyOlAQdGBHXMGYFBreBWiBcYiMrh0DFh0gJozax0k/WteleBshLaKOygT66bn3O9NUBRRRQFFFFAr4ndKWrjDcIxHzjT+tZAUKgc7cxFB/3dmY/wAHP9o1r+I2S9p0G7KQPnGn9awGuF0K6AWsnYT1jKRDJuNGY5bHHSZoOXuFgBtVuvbkspgi5duqNxvjnAmdAKom4pJYLe7sLhKn7xrZIKgrisIYK/HvpWt4zAa0RtKT+lbttp/pVfEAJxADCVfIe2N2Fb/+iWh/zRQQ55JVWLm98FtgFRWHxdOjKPmTpprUryqrHr6teZeKiVGIi2hIgEztrpPczTNq2DNi6Mo1tk7so2II1DrpqNdiPbK8KZeWtwKXyyFrTVrjlnJk6SEAlvyn5UE2UHlq5YgKSba6wdAloD8RBaSdek7ClhZZS7gjmRDTqtxpW3g4/CbrOJ7BRG1P5YwqwDb6FjU3Lxt6n9K5yT6g+mtFsBLNswSzY3W9VS2wuBRPcsFBJ3LMTQL3OMv2ygU8u2xZeoBkDrtjdxJCdLeZZEDtqFvErfF2wSiWWujRTduvgyx8DLbAHyJXX2itrjbZFtbZibavcc9gGS4oAneSxA/SazktG0gNu49tcrmQUhkxW6C3RcDKoVCw6QNV70HkR4j41kF/l+ExmY5iY+nmz2Ar0nhtvi7gDNbsrdOjG1dfBVH4mNsg6zoCd60rl26Li2+Ymrus8tZAUq0zsOjmHbdap5Rf717lxfsoUkBdXuH7u2FUyq2x1A70EU4u85fI8y0GVekBULNuXu4gm31LOK/ORNdey+SXCQbhH2caBNcCijsocWzO5yINPeH2CbJtAglrVplb4WARVj6lf2aqrgFy08Srpqn6LraAxuMlI+dsGghy1AdbZaGT7s6ZQMWskH4sYCncSNwKbsqGZftOsn7K6FEuMDKvGhMBpBjadDUQwfJGgc3pYHRrd8W40PuFBBH4ZFLeIEYFmUqSqrcIEFLymQ0jbIMwz9loGVvkFlQut8atbUBkLHXLUwFJ18wOvrWeubdShbG2ItMWktc5S9TALgTOgUdiDFbd22PuLfSCJciZVCfxb5NqAZnc71RYQPfhRCWyNBtCAoqgbRkzn2NsUCQ4cGLgBa4lnmZEy2Sv2nYkKw0pplEM41UXih90vhZ+ge4G+QPrVvgnnc/7u3+3MvGf6/0rPssUs20EEXEssBP2hxRAQqbmQoE7LJJ2oPQeGPNq3O+IB+Y0P9QacpXgbJS2qncDX0k6mPaTTVAUUUUBRRRQFZHjhwC3FjJemD5WVoyDe2gP0+da9ZX8QJ9mD6Ez6dSskn5FgaDNtsgPKvIUFy1irczNUD6YAkDH2Ou29NcQrXOWtxSpXLmXNApUoVlWnuxRo7Ya9prdxcu2TiQo6WyUjqKtpqNdj7VTwnhltnvWio0UhfSc3M/MZJ+woG/5ouEkAlXUi4pXllRu2U6SsjE6ydJAmkeDZjYVjONtRatQR1XJPD56bA5aa7GaOD4UNkwtqbiMXxIHWrk5qe2QuLcA9IHrVpuDJnym2PtkSILXB0FSSfhfHpiQxGvagtt28C4WFIuW7IKjyIURiF9yzMZ9Y9K5fsDJuHSArW1tSfhTFiwHq0ER+59+XQyMwZgSird20a5cdklu+CBRA/rppIqbfMcHLkhnJO9y6ySWYjZQCBoNB8qCd1c7oJ2a6LUfltB7mvzb+lJX9FcHVVW+CfW2LwLx7hCyz6rTvFAoFUHJ0yvO0aSVYDTtLHQeimqL3DhQ9rs1uzbJ743HdXPzad/Ug0FbH7bAjqa6NfTB2uEn0m2Sv0NFnUou0pYDH1BuuyftgR/arlkAm8T5+faH0NyNPYgkfU1eljmYW5ghbyZfltuFU+5DBW+hoLEXB2K+Xm8rH2uAN0/JmJ+RPpUbdqXW24BCi5ZkaZArbuL8jA/dTXeDJurr0PcCX0PoSij6gEQR6NRgXKNMc4yCN0uonmX1Uqmx/wA9ADbDFVcBzzHssSB1riXXL3ED6ye9K3ndLWepDIEvSRpdBRA4JMEaNMHuNKYshrhUqQrOovDuouLCSPVGGhHoZEHWqxdGatIFqOdcSJIueRUUzrLhjEbp70F6cQbasAAC9x2N1iOXiW6WmeohAqhR+GNBrUrKtbzW2pbILg8gr5YLO/qDJPczSPF8KEhzbXmu2ap8K4+RdPzspZvWewEd4nwy2j2rKr2tr84fIkxpJS0/bvQd4i6h6bVs3AlpgzB8VuC2RkmgOUFvl1ETvWn4OS2VxozkqQPKqjVQvsVIb+1SNt+XeusEJU5LbCqSMsbZK6DSWn26TTv8PW4teoJAB/EFRbeQ9iUJB7iD3oNUV2iuUHaKKKAooooCoMs6H61Oigx+J8MgfZ+XuhdgAQZVrZ1CEEbAR7Vl2OOxZGKFWxDgswIuJd1Kl4Cq8opAMDogHePV15zibZtk472yZB2a07ZD+64/bId6CKcSBczX7xrjEWwQegqoKsykorMyFwJ1J+dVeLXrZPNTqZBzSkQearKEVlaMXeSsHuFPwitBWDLGIxDSRGhRt9OzK39AD3rq8LbLYuGZRIhmJVToBoT3VhB9jQJHiBgggE3GD32nyJMAMfnCx6Bo2phFNy2kmDxI6zHlU25wUfpkSfc+1Vv4aFVmyNwNktxIjNSIaVG9yADkdTj2qzw64XcB2y5VuUbs4MgXAPXHQ+hn1oLOLuS90Lrktu0PTM5yPorA/wD0apAkMm903gD7LaYOvyHLwPzf3NSV4t2AolwvOPyxJYn3YtiPmfSp2ALbJcLSXS49xvXpUyB6AKAPYCgVRRgjZatYNxm/OrpcU/3nfT2jtV3DtpbUjG4lwKR6q4kn5FZ+qnuDVfDWCbd0kQ2C6dhM3ip9pciruJ6mu3QcWSzadSe0c1tfymSD8jQHAaGyjaYI9k+hYBNj+ZVyA9PlXWDLbbXXh26DHmHLGjfRypPtNF/W3xCkEMRzV9fIII9wyfuK54hdxuQhhbttmc/CuJQB/mVLD3IHpQKLxAFttI5TZ2D3e2rAFFI9SGtgd1ZDrNHhly2GNy5oxJdUAmbhlWxA8zrGGm2v4tbh4fmqtkbcFVtpAPLTyrA+G4QZn4ZG+OrH8rbDYqGVTioCswDNrlIB1hQCT86BQ8UC+bfeBx0SBChT0o7EKzjKWg6Ex2FV3+NzZiEJaDcyVgBaFsgBQ8EFzm0gaasCfV8sFXHDpLEhIGiAQoAPdiMtfxGdqW4YG7jMTdIJjYWUOWn5WYhRtIM9ooHOG8MyA5o6YMWwzEHIyzXNg7E+ojf1NayrAgVKigKKKKAooooOUV2ig5RXaKApDxDhy0OkZrMTsynzIfYwPqAe1P1yKDC4XiQggCUYwhOhUg62X9GGyk/LfUzN2STqyspBHdkmCI7OhMEbxTHG8FOTIASwh0by3BtB9GgaN8p9kbDhTMMUBGQP3tphsXHxDtmDMfiGoC822AktoYlh+IeW4PYiAw9h8yn4nwZxy1QEw4BgKWPVr/srmzRqJy0IJrXF9SAEI11U/C3qAfXfSqeI4qQRAjysG8oOxS4OwPZtR8xuGL4jlcc6tbMIAiQSGTJgtx16QDkQF3JIPatS1xCAvc8yCzbxA16WLdIHqSoH7elTlGXArgpgAAAFHGo2013B2MfKkDNs3AbYfMNmgiL2kZ2pMSfitnuSRO7Bdb4Z1XlA9TWNROgKQq6+4bGe+FW8RctnluRCNacOPW3AGOm5yYAAepjequHvgK5a4GPJtjOdzDLHrJbLTfWqgrXOWMArW1XBSAeUYjmXfzfhQfM/lCjgGa04DMztDK6OQGZ3xeEcwrBRAK6dzTHh/BmMoLAHpGsMy7Sf9kmoUd9TuRTo5arysc0EgggMbjnU6HTckknST2g1OxxegEAjYBdmMRjbHdR3bb/IKgjRIbQT1mIk+a6fYahRt9K4rgEHZVUAeqp2Hu7kD3gD11c56wQ5HTq34VjYSfpWbxLBiDDBSTio+8uk6Eqvwj8x1j0G4WcZxQuLDDoBh43diY5KepOzEabj1h7gLBEu8ZtuBsoGyD2Hr3M1XwfBQQ7gSohFXy2x6L6mN2/atOg5XaKKDlFdooCiiigKKKKAooooCiiig4aU4rg1fq1Vxs66MP8A1HsZFOUUHnuJsFJLwk7uAeU/vcSZRvzD9+1HMIKh5DHRG0OQPwztcQ+hho99a9ARWZf8M0ITEKd7bCbbf2fh+nfWKCXDWRBDLuIjdfkpOoHsdqpbhgVichMYsYae3UNVcdmETp+o02b72zgJB7Wrjakf7q6dG/S2vrFWNeV5OoIENI6lHpdtndfcaRqDGtAn/LDmZZDOIyx/7wQO2PlnX7yNj9aet8MAoE4iSMVMme/VuXPdp0/rUStzbqiN8hjj683zR7b+8a0JeVIIkk6LA6mHpat9l/MY9SSNaC/ibKwFVdgBGy+2RGpH5RvSPMJJCSWGjttEa45ai2vsJb5HUzv33uHAgk/7K2dv+NdGi/JdfTKmrPhoIHMgqNraiLY/s/F9f2oEuGsM8FIaNnIPJT3tpMufzE69iBpWrwvCBNdWY+Z21Zv20A9hApuiaDtFcmiaDtFcmiaDtFcmiaDtFFFAUUUUBRRRQFFFFAUUUUBRRRQU37CuMWAI96yuL4Vk162UbMv3tr5H409jr+rtt1Eig89i0TK4ebPTkxPnx3y/JOM60xwvCF5PUindj97d+Z+BPYa/p7u/9mJnnB3nGejL8WO2Xv8A5606BQVWLCoMVAAHYf8AzerqKKApDjLd4zy3VdNJE6z309P/AK7h+igykTihEtaIHeG109PnU0XiO5t99g3poZ+faP2rSooMW5Z4sCRctsROhWARpGvbv+9T5XFY/eWshGuJgxuCPfTXtWtFEUGWLfFa9dj26X39T1fPSmuDW4AeaVJnTGYiANj7z6703RQFFFFB/9k=",
+        "name": "Fox",
+        "colors": "brown, white, black",
+        "description" : "This is an wild animal, ancestors of dogs."
+        },
+      {
+      "id": "7",
+      "image": "https://momlovesbest.com/wp-content/uploads/2023/06/animal-coloring-pages-11.webp",
+      "name": "Owl",
+      "colors": "brown, white, black",
+      "description" : "This is an nocturnal animal."
+      },
+        {
+        "id": "8",
+        "image" : "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ea43b3b4-d265-4aa9-9073-1e6ab825cb70/dahtk5q-bc572e5e-e238-46aa-aa43-47970f32d1e7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VhNDNiM2I0LWQyNjUtNGFhOS05MDczLTFlNmFiODI1Y2I3MFwvZGFodGs1cS1iYzU3MmU1ZS1lMjM4LTQ2YWEtYWE0My00Nzk3MGYzMmQxZTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.b2LHUld6-MFbo1qRFh6JjzAxpU1OFW3st_FEALw7f-M",
+        "name": "Elephant 2",
+        "colors": "greyish white",
+        "description" : "This is an wild animal,very social, cute beings."
+        },
+      {
+      "id": "9",
+      "image" : "https://i.pinimg.com/736x/d7/5a/8a/d75a8a3e5024a628be9e0ff0a6431239.jpg",
+      "name": "Fox 2",
+      "colors": "brown",
+      "description" : "This is an wild animal, ancestors of dogs."
+      },
+        {
+        "id": "10",
+        "image" : "https://www.rookieparenting.com/animal-coloring-pages-for-adults-1.png",
+        "name": "Baby Elephant",
+        "colors": "greyish white, pure white",
+        "description" : "This is an wild animal,very social, cute beings."
+        },
+      {
+      "id": "11",
+      "image" : "https://i.etsystatic.com/14574990/r/il/59d2db/1408508022/il_570xN.1408508022_73hn.jpg",
+      "name": "Lion",
+      "colors": "golden, white, black",
+      "description" : "This is an wild animal,very social, pride is what theirs."
+      },
+        {
+        "id": "12",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-animal-mandala-illustration_23-2149972095.jpg?size=338&ext=jpg&ga=GA1.1.632798143.1705276800&semt=ais",
+        "name": "Rabbit",
+        "colors": "white",
+        "description" : "This is a furry mammals family of squirrels, hares."
+        },
+      {
+      "id": "13",
+      "image" : "https://i.pinimg.com/736x/82/cf/c0/82cfc01de27aaf163a34a3d2b3a20836.jpg",
+      "name": "Rabbit 2",
+      "colors": "white",
+      "description" : "This is a furry mammals family of squirrels, hares."
+      },
+        {
+        "id": "14",
+        "image": "https://natashalh.com/wp-content/uploads/2021/03/antelope-coloring-sheet-preview.jpg",
+        "name": "Giraffe",
+        "colors": "yellow, white, black",
+        "description" : "This is a wild animal, very tall, herbivore."
+        },
+        {
+        "id": "15",
+        "image": "https://www.vhv.rs/dpng/f/448-4488769_animal-adult-coloring-pages-animal-full-page-coloring.png",
+        "name": "Toucan Bird",
+        "colors": "red,yellow, white, black",
+        "description" : "This is a exotic bird, almost extinct."
+        },
+        {
+        "id": "16",
+        "image": "https://st2.depositphotos.com/4264683/8525/v/450/depositphotos_85251530-stock-illustration-hand-drawn-tribal-hippopotamus-head.jpg",
+        "name": "Hippos",
+        "colors": "black, grey, brown",
+        "description" : "This is a mud water animal,domestic,very social, very territorial."
+        },
+        {
+        "id": "17",
+        "image" : "https://i.pinimg.com/1200x/91/29/20/912920aba26f43ac9ea685bc2f76c04d.jpg",
+        "name": "Pig",
+        "colors": "pink, red",
+        "description" : "This is a farm animal,domestic,very social, delicious food."
+        },
+        {
+        "id": "18",
+        "image": "https://media.istockphoto.com/id/614503738/vector/black-and-white-vector-illustration-with-a-chameleon-in-ethnic.jpg?s=612x612&w=0&k=20&c=ikfLnZAB5C6IeQgWxxuTZBch3qQn8dMvYgzzXUVMKLc=",
+        "name": "Chameleons",
+        "colors": ".............",
+        "description" : "This is a wild reptile, changes colors, hunts with it."
+        },
+        {
+        "id": "19",
+        "image": "https://img.freepik.com/premium-vector/mandala-ocean-animals-coloring-pages-kids-adult-premium-vector_638495-138.jpg",
+        "name": "Fish",
+        "colors": "red,yellow, grey, black, white",
+        "description" : "This is a sea animal, one of the human's most favourite foods."
+        },
+        {
+        "id": "20",
+        "image": "https://cdn.shortpixel.ai/spai3/q_lossy+ret_img+to_webp/https://media.madebyteachers.com/wp-content/uploads/2023/09/12081118/animal-mandala-a3-scaled.jpg",
+        "name": "Dolphin",
+        "colors": "blue, grey, white",
+        "description" : "This is a water living fish,very social, intelligent, playful."
+        },
+        {
+        "id": "21",
+        "image" : "https://worldofprintables.com/wp-content/uploads/2023/08/Raccoon-Animal-Coloring-Page-502x650.jpg",
+        "name": "Baby Raccoon",
+        "colors": "brown,white,black",
+        "description" : "This is a wild animal,very social."
+        },
+        {
+        "id": "22",
+        "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjE4Ny10YW5nLTAzLWFuaW1hbGNvbG9yaW5nXzQuanBn.jpg",
+        "name": "African Ancient Cat",
+        "colors": "black, brown, white",
+        "description" : "This is an extinct animal, ancestor of modern cats."
+        },
+        {
+        "id": "23",
+        "image": "https://thumbs.dreamstime.com/b/adult-coloring-book-page-cute-playing-cat-ball-thread-relaxing-zen-art-style-illustration-floral-ornamentson-110547752.jpg",
+        "name": "Cat (playing with a ball)",
+        "colors": "yellow",
+        "description" : "This is a domestic animal,anti social, hunts rats, eats milk."
+        },
+        {
+        "id": "24",
+        "image"  : "https://woojr.com/wp-content/uploads/2020/04/adult-coloring-animals-232x300.jpg",
+        "name": "Puppy",
+        "colors": "white, black",
+        "description" : "This is a dog, human's best companion,domestic,very social."
+        },
+        {
+        "id": "25",
+        "image" : "https://woojr.com/wp-content/uploads/2020/04/easy-adult-coloring-animals-232x300.jpg",
+        "name": "Llama",
+        "colors": "white",
+        "description" : "This is a farm animal, herbivore,very social."
+        },
+        {
+        "id": "26",
+        "image" : "https://www.creativecenter.brother/-/media/creativecenter/contents/home/home/home-category/coloring-pages/adult-coloring/wild-animal-coloring-lion/wild-animal-coloring-lion-coloring-pages-l-en.ashx",
+        "name": "Majestic Lion",
+        "colors": "brown, white, black",
+        "description" : "This is a wild animal,very social, kind of the forest."
+        },
+        {
+        "id": "27",
+        "image": "https://media.istockphoto.com/id/503898302/vector/hand-drawn-frog-for-coloring-book-for-adult-shirt-design.jpg?s=612x612&w=0&k=20&c=uCfIphUS2v33XI_R8GJK0mv--gFr8XVyinY0tPidAKA=",
+        "name": "Frog",
+        "colors": "white, black",
+        "description" : "This is a water animal,lives in mud pool."
+        },
+        {
+        "id": "28",
+        "image" : "https://static.vecteezy.com/system/resources/thumbnails/004/263/770/small/penguins-pattern-hand-drawn-for-adult-coloring-book-vector.jpg",
+        "name": "Baby Penguins",
+        "colors": "white, black",
+        "description" : "This is a cold weather animal, lives in arctic region domestic,very social."
+        },
+        {
+        "id": "29",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-animal-mandala-illustration_23-2149992762.jpg?size=338&ext=jpg&ga=GA1.1.1412446893.1705104000&semt=ais",
+        "name": "Angry Owl",
+        "colors": "white, black",
+        "description" : "This is a nocturnal bird,very silent, domestic,wild, social."
+        },
+        {
+        "id": "30",
+        "image": "https://www.justcolor.net/wp-content/uploads/sites/1/nggallery/mouses/coloring-adult-animals-mouse.jpg",
+        "name": "Ancient Rat",
+        "colors": "brown, black",
+        "description" : "This is a rodent animal,domestic, wild, social."
+        }
+    ]
+  }
