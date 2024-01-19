@@ -211,5 +211,177 @@
         "colors": "brown, black",
         "description" : "This is a rodent animal,domestic, wild, social."
         }
-    ]
+    ],
+  
+    
+      "affirmations" :
+      [
+        {
+          "id": "1",
+          "image" : "https://blog.gratefulness.me/content/images/2023/01/ram-dass5-1.jpg",
+          "name": "Ram Dass",
+          "description" : "Opportunities,strength, ability."
+          },
+          {
+            "id": "2",
+            "image" : "https://blog.gratefulness.me/content/images/2023/01/ram-dass3.jpg",
+            "name": "Ram Dass",
+            "description" : "Awareness."
+            },
+        {
+          "id": "3",
+          "image" : "https://jessicadimas.com/wp-content/uploads/2021/03/ram-dass-quotes-the-light.png",
+          "name": "Ram Dass",
+          "description" : "Teacher,light,lessons."
+          },
+          {
+            "id": "4",
+            "image" : "https://i.pinimg.com/236x/17/38/03/173803ef8cfda0d4b3087a8016e9c63f.jpg",
+            "name": "Ram Dass",
+            "description" : "love,strength, compassion."
+            },
+            {
+              "id": "5",
+              "image" : "https://positivethinkingmind.com/wp-content/uploads/2020/05/ram-dass-quotes720x480.jpg",
+              "name": "Ram Dass",
+              "description" : "ability."
+              },
+          {
+            "id": "6",
+            "image" : "https://www.realsimple.com/thmb/HV_lfSEbnNwEY2phffBTl59h-As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positive-quotes-captions-life-motivational-inspirational-oscar-wilde-6ab0bbfa11404208ad603a2de3ca7234.jpg",
+            "name": "Oscar Wilde",
+            "description" : "strength, ability."
+            },
+            {
+              "id": "7",
+              "image" : "https://everydaypower.com/wp-content/uploads/2022/09/Motivational-1-Liners-About-Living-Life-Better-12.png",
+              "name": "Earl Nightingale",
+              "description" : "Opportunities,strength, ability."
+              },
+              {
+                "id": "8",
+                "image" : "https://www.rd.com/wp-content/uploads/2021/08/kate-winslet-life-is-short-quote.jpg?resize=1536%2C1536",
+                "name": "Kate Winslet",
+                "description" : "strength, ability."
+                },
+                {
+                  "id": "9",
+                  "image" : "https://everydaypower.com/wp-content/uploads/2023/11/short-inspirational-quotes-by-Thomas-Carlyle.png",
+                  "name": "Thomas Caryrle",
+                  "description" : "strength, ability."
+                  },
+              {
+                "id": "10",
+                "image" : "https://hips.hearstapps.com/hmg-prod/images/tim-storey-quote-1621370969.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "name": "Tim Storey",
+                "description" : "strength, ability."
+                },
+                {
+                  "id": "11",
+                  "image" : "https://i.pinimg.com/236x/f8/c2/b5/f8c2b5981a9407cd11c8a05ffc6cc862.jpg",
+                  "name": "Unknown",
+                  "description" : "strength, ability."
+                  },
+            {
+              "id": "12",
+              "image" : "https://i.pinimg.com/236x/f0/69/62/f0696209f8f016931fd792786562c3d4.jpg",
+              "name": "Unknown",
+              "description" : "strength, ability."
+              },
+            {
+              "id": "13",
+              "image" : "https://quotefancy.com/media/wallpaper/3840x2160/775434-Kate-Winslet-Quote-If-you-don-t-try-at-anything-you-can-t-fail.jpg",
+              "name": "Unknown",
+              "description" : "strength, ability."
+              },
+            {
+              "id": "14",
+              "image" : "https://hips.hearstapps.com/hmg-prod/images/oprah-quote-4-1621436081.jpg?crop=1xw:1xh;center,top&resize=980:*",
+              "name": "Unknown",
+              "description" : "strength, ability."
+              },
+            {
+              "id": "15",
+              "image" : "https://hips.hearstapps.com/hmg-prod/images/brene-brown-quote-1621436002.jpg?crop=1xw:1xh;center,top&resize=980:*",
+              "name": "Brene Brown",
+              "description" : "strength, ability."
+              },
+            {
+              "id": "16",
+              "image" : "https://hips.hearstapps.com/hmg-prod/images/yrsa-daley-ward-1621436133.jpg?crop=1xw:1xh;center,top&resize=980:*",
+              "name": "Yrsa Daley",
+              "description" : "strength, ability."
+              },
+            {
+              "id": "17",
+              "image" : "https://hips.hearstapps.com/hmg-prod/images/heather-havrilesky-1621436209.jpg?crop=1xw:1xh;center,top&resize=980:*",
+              "name": "Heather Havrileksy",
+              "description" : "strength, ability."
+              },
+              {
+                "id": "18",
+                "image" : "https://hips.hearstapps.com/hmg-prod/images/michelle-obama-quote-1621367959.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "name": "Michelle Obama",
+                "description" : "strength, ability."
+                },
+            {
+              "id": "19",
+              "image" : "https://hips.hearstapps.com/hmg-prod/images/jon-kabat-zinn-quote-1621371989.jpg?crop=1xw:1xh;center,top&resize=980:*",
+              "name": "Kabat Zinn",
+              "description" : "strength, ability."
+              },
+              {
+                "id": "20",
+                "image": "https://images.squarespace-cdn.com/content/v1/5b9952adc258b451bdc43cc2/3f2f132a-47b1-49ed-ae18-9ffc7a52a11d/Family+Affirmations+1+%282%29.png",
+                "name": "West Nest",
+                "description" : "strength, ability."
+                },
+            {
+              "id": "21",
+              "image" : "https://snacknation.com/wp-content/uploads/2021/12/Best-Positive-Affirmations-For-Work-e1638481307317.png",
+              "name": "Unknown",
+              "description" : "strength, ability."
+              },
+              {
+                "id": "22",
+                "image" : "https://www.realsimple.com/thmb/ICzj6znno_n8bDgyw8xxp8DGAaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/positiveaffirmations-GettyImages-636426958-f28549f1d9d74a78a1dba779fec17b5c.jpg",
+                "name": "Unknown",
+                "description" : "strength, ability."
+                },
+            {
+              "id": "23",
+              "image" : "https://www.careerstaff.com/wp-content/uploads/2023/10/positive-affirmations-for-nurses.png",
+              "name": "Career Staff",
+              "description" : "strength, ability."
+              },
+            {
+              "id": "24",
+              "image" : "https://miro.medium.com/v2/resize:fit:1200/1*eP9jixKUyBMUKkk5f1ePbw.jpeg",
+              "name": "Medium",
+              "description" : "strength, ability."
+              },
+              {
+                "id": "25",
+                "image" : "https://bloomaffirmations.com/wp-content/uploads/2022/06/10-Most-Powerful-Affirmations-Pin-10.png",
+                "name": "Bloom Affirmations",
+                "description" : "strength, ability."
+                }
+      ],
+
+      "Contacts" :
+     [
+         {
+              "id" : "1",
+              "firstname" : "dummy",
+              "lastname" :  "kumar",
+              "email" : "dummy@gmail.com",
+              "message" : "this is dummy"
+         }
+     ],
+     
+     "thoughts" : [
+       {
+            "Content" : "I am doing a project"
+       }
+     ]
   }
