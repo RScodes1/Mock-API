@@ -412,6 +412,34 @@
             "image": "https://i0.wp.com/srmdelhi.org/blogs/wp-content/uploads/2023/04/Meditation-New-Age_Artwork_SriGuru.jpg?resize=800%2C400&ssl=1",
             "link": "https://www.youtube.com/watch?v=rEXa_3ELy_o"
           }
-      ]
+      ],
+
+       "imagery-Data" : [
+        {
+            "name":"The Story of Sigurd by Andrew Lang",
+            "image": "https://i.ytimg.com/vi/onfjwven_kI/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=onfjwven_kI"
+        },
+        {
+            "name":"The Adventure of the German Student by Washington Irving",
+            "image": "https://i.ytimg.com/vi/A7I4QK-eN4U/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=yFj9twPGjuM"
+        },
+        {
+            "name":"Lost in a Pyramid (or The Mummy's Curse) by Louisa May Alcott",
+            "image": "https://i.ytimg.com/vi/uzntPvBNAtg/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=uzntPvBNAtg"
+        },
+        {
+            "name":"The Gift of the Magi by O. Henry",
+            "image": "https://cdn-images-1.medium.com/max/853/1*Pjqg3T7bik_6Qf2o4oxC_A.jpeg",
+            "link": "https://www.youtube.com/watch?v=v5oLDPRcQXI"
+        },
+        {
+            "name": "Reginald's Christmas by Saki",
+            "image": "https://i.ytimg.com/vi/hVTRC_0N74E/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=hVTRC_0N74E"
+        }
+    ]
     
   }
